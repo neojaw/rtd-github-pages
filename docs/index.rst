@@ -14,6 +14,9 @@ Here are some contents...
 
    autodoc
 
+And here we are done.
+
+
 
 Indices and tables
 ==================
